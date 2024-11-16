@@ -1,3 +1,4 @@
+# DATE : 11.11.2024
 # EX_13_THREAD
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
@@ -137,7 +138,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/20f42008-7c0f-4209-9f49-d3063eca992f)
-
 
 ## RESULT
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
